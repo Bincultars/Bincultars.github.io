@@ -17,7 +17,7 @@ const publicProjects: PublicProject[] = [
       zh: '基于非平衡最优传输的多轨 MIDI 路由。项目主页提供钢琴卷帘图、MIDI 示例与方法对比。',
       en: 'Multitrack MIDI routing with unbalanced optimal transport. Explore piano-roll visualizations, MIDI examples, and method comparisons.',
     },
-    publicUrl: 'https://aibincultars.github.io/projects/uot-ir/',
+    publicUrl: 'https://bincultars.github.io/projects/uot-ir/',
   },
   {
     title: {
@@ -135,7 +135,7 @@ export const siteContent = {
 
   contact: {
     email: 'edu.kangziyue@gmail.com',
-    github: 'https://github.com/AIBincultars',
+    github: 'https://github.com/Bincultars',
     scholar: 'https://scholar.google.com/citations?user=ltaBNZIAAAAJ&hl=en',
   },
 

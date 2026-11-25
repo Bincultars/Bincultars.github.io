@@ -26,6 +26,6 @@ export const paths: Record<Language, Record<PageKey, string>> = {
 };
 
 export const siteConfig = {
-  url: 'https://aibincultars.github.io',
+  url: 'https://bincultars.github.io',
   languageStorageKey: 'personal-site-language',
 } as const;
