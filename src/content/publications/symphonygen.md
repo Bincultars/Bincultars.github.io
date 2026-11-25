@@ -9,5 +9,6 @@ order: 2
 paperUrl: "https://arxiv.org/pdf/2604.25498"
 publisherUrl: "https://ismir2026program.ismir.net/poster_258.html"
 arxivUrl: "https://arxiv.org/abs/2604.25498"
+codeUrl: "https://github.com/symphonygen/symphonygen"
 projectUrl: "https://symphonygen.github.io/"
 ---
