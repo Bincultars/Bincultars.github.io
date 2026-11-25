@@ -7,6 +7,7 @@ status: "Preprint"
 featured: true
 order: 2
 paperUrl: "https://arxiv.org/pdf/2604.25498"
+publisherUrl: "https://ismir2026program.ismir.net/poster_258.html"
 arxivUrl: "https://arxiv.org/abs/2604.25498"
 projectUrl: "https://symphonygen.github.io/"
 ---

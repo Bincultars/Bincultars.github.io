@@ -7,6 +7,7 @@ status: "Preprint"
 featured: true
 order: 1
 paperUrl: "https://arxiv.org/pdf/2608.00576"
+publisherUrl: "https://ismir2026program.ismir.net/poster_148.html"
 arxivUrl: "https://arxiv.org/abs/2608.00576"
 codeUrl: "https://github.com/Bincultars/UOT-IR"
 projectUrl: "https://bincultars.github.io/projects/uot-ir/"
