@@ -137,6 +137,7 @@ export const siteContent = {
     email: 'edu.kangziyue@gmail.com',
     github: 'https://github.com/Bincultars',
     huggingFace: 'https://huggingface.co/Bincultars',
+    modelScope: 'https://www.modelscope.cn/profile/Bincultars',
     scholar: 'https://scholar.google.com/citations?user=ltaBNZIAAAAJ&hl=en',
   },
 
@@ -158,6 +159,7 @@ export const siteContent = {
     email: { zh: '邮箱', en: 'Email' },
     github: { zh: 'GitHub', en: 'GitHub' },
     huggingFace: { zh: 'Hugging Face', en: 'Hugging Face' },
+    modelScope: { zh: 'ModelScope', en: 'ModelScope' },
     scholar: { zh: 'Google Scholar', en: 'Google Scholar' },
     selectedPublications: { zh: '代表性论文', en: 'Selected Publications' },
     publicCollaborations: { zh: '研究合作', en: 'Research Collaborations' },

@@ -20,6 +20,7 @@ const { language } = Astro.props;
       <a href={`mailto:${site.contact.email}`}>{localize(site.labels.email, language)}</a>
       <a href={site.contact.github} target="_blank" rel="noopener noreferrer">{localize(site.labels.github, language)} <span aria-hidden="true">↗</span></a>
       <a href={site.contact.huggingFace} target="_blank" rel="noopener noreferrer">{localize(site.labels.huggingFace, language)}</a>
+      <a href={site.contact.modelScope} target="_blank" rel="noopener noreferrer">{localize(site.labels.modelScope, language)}</a>
       <a href={site.contact.scholar} target="_blank" rel="noopener noreferrer">{localize(site.labels.scholar, language)} <span aria-hidden="true">↗</span></a>
     </div>
   </div>
