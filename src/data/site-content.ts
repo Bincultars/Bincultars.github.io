@@ -136,6 +136,7 @@ export const siteContent = {
   contact: {
     email: 'edu.kangziyue@gmail.com',
     github: 'https://github.com/Bincultars',
+    huggingFace: 'https://huggingface.co/Bincultars',
     scholar: 'https://scholar.google.com/citations?user=ltaBNZIAAAAJ&hl=en',
   },
 
@@ -156,6 +157,7 @@ export const siteContent = {
     switchTo: { zh: '切换到英文', en: 'Switch to Chinese' },
     email: { zh: '邮箱', en: 'Email' },
     github: { zh: 'GitHub', en: 'GitHub' },
+    huggingFace: { zh: 'Hugging Face', en: 'Hugging Face' },
     scholar: { zh: 'Google Scholar', en: 'Google Scholar' },
     selectedPublications: { zh: '代表性论文', en: 'Selected Publications' },
     publicCollaborations: { zh: '研究合作', en: 'Research Collaborations' },

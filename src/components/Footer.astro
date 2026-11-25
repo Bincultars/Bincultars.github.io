@@ -15,6 +15,7 @@ const { language } = Astro.props;
     <div class="footer-links">
       <a href={paths[language].home}>{localize(site.navigation.home, language)}</a>
       <a href={`mailto:${site.contact.email}`}>{localize(site.labels.email, language)}</a>
+      <a href={site.contact.huggingFace} target="_blank" rel="noopener noreferrer">{localize(site.labels.huggingFace, language)}</a>
       <a href={site.contact.scholar} target="_blank" rel="noopener noreferrer">{localize(site.labels.scholar, language)}</a>
     </div>
   </div>
